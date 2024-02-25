@@ -1,6 +1,6 @@
 # MOVIE DATABASE
 
-![picture alt]([https://media.licdn.com/dms/image/D5622AQFl1_kL0P2bfQ/feedshare-shrink_2048_1536/0/1704884486722?e=1711584000&v=beta&t=-evENQZdkfNtVc58n8wCJoVqQwLZpciAvfyMfKffAC4](https://media.licdn.com/dms/image/D5622AQGI8KTJZQqAHA/feedshare-shrink_2048_1536/0/1704879932636?e=1711584000&v=beta&t=4-lftTMl9Wu_zqiINLVUrLkokWpUIXsViQWOsUr07Xo))
+![picture alt](https://media.licdn.com/dms/image/D5622AQGI8KTJZQqAHA/feedshare-shrink_2048_1536/0/1704879932636?e=1711584000&v=beta&t=4-lftTMl9Wu_zqiINLVUrLkokWpUIXsViQWOsUr07Xo)
 
 
 
